@@ -1,0 +1,10 @@
+disease	symptoms	genes
+NEUROFIBROMATOSIS, TYPE II	tumor brain, blindness, meningioma brain, schwannoma spinal cord	NF2
+STICKLER SYNDROME, TYPE I	high myopia, vitreoretinal degeneration, retinal detachment, cataracts, blindness, midline clefting	COL2A1, COL11A1, COL11A2
+SPASTIC ATAXIA 7	symmetric ataxia, dysarthria, pyramidal signs in limbs, ptosis, myopia, color blindness	SPAX1
+ANIRIDIA	iris hypoplasia, poor eyesight, ocular degeneration, blindness	PAX6
+COLOBOMA	absent ocular tissue, blindness	PAX6, SALL2
+MYOCLONIC EPILEPSY OF LAFORA	blindness, neurodegeneration, seizures	EPM2A, NHLRC1
+OGUCHI DISEASE	stationary night blindness, discoloration of the fundus	SAG, GRK1
+BLUE CONE MONOCHROMACY	impaired color discrimination, myopia, progressive blindness	OPN1LW, OPN1MW, OPN1SW
+PROLONGED ELECTRORETINAL RESPONSE SUPPRESSION	 temporary blindness, stationary subnormal visual acuity	RGS9, R9AP
